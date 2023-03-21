@@ -51,7 +51,7 @@ class ChatCard extends StatelessWidget {
                   child: messageBlock.author!.id != 'chatGPT'
                       ? Center(
                           child: Text(
-                            "S",
+                            "MA",
                             style: Theme.of(context).textTheme.displaySmall,
                           ),
                         )

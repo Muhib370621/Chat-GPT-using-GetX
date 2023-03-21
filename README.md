@@ -46,9 +46,6 @@ This repository contains the source code for a ChatGPT Android app built using F
 - [x] Clear conversation.
 - [x] Add "typing bubbles" to the chat.
 
-## 🤓 Author(s)
-
-**[Saifudeen Hisham](https://www.instagram.com/beSaif)**
 
 ## 🔖 LICENCE
 
